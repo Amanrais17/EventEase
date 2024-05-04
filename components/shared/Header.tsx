@@ -25,7 +25,7 @@ const Header = () => {
 
           <Image 
 
-            src="/assets/images/logo.svg" width={128} height={38}
+            src="/assets/images/newlogo.svg" width={128} height={38}
 
             alt="EventEase logo" 
 

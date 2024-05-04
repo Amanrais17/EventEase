@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   title: 'EventEase',
   description: 'EventEase is a platform for event management.',
   icons: {
-    icon: '/assets/images/logo.svg'
+    icon: '/assets/images/newlogo.svg'
   }
 }
 export default function RootLayout({
